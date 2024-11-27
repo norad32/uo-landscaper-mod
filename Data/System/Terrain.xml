@@ -65,7 +65,7 @@
   <Terrain Name="Forest Without Static" ID="63" TileID="196" R="100" G="100" B="100" Base="88" Random="False" />
   <Terrain Name="Graveyard" ID="64" TileID="117" R="128" G="128" B="128" Base="88" Random="False" />
   <Terrain Name="Yew Forest" ID="65" TileID="196" R="0" G="90" B="110" Base="88" Random="False" />
-  <Terrain Name="Dark Forest" ID="66" TileID="196" R="0" G="90" B="120" Base="88" Random="False" />
+
   <Terrain Name="Sand Without Static" ID="67" TileID="22" R="245" G="240" B="100" Base="88" Random="False" />
   <Terrain Name="Jungle Without Static" ID="68" TileID="172" R="100" G="150" B="107" Base="88" Random="False" />
   <Terrain Name="Moss Without Static" ID="69" TileID="15853" R="60" G="225" B="200" Base="88" Random="False" />

@@ -7,10 +7,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12972" AltIDMod="0" />
-      <StaticTile TileID="12973" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top" HashKey="011111010101010101">
     <MapTiles>
@@ -19,10 +16,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12972" AltIDMod="0" />
-      <StaticTile TileID="12973" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top" HashKey="111101010101010101">
     <MapTiles>
@@ -31,10 +25,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12972" AltIDMod="0" />
-      <StaticTile TileID="12973" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top" HashKey="011101010101010101">
     <MapTiles>
@@ -43,10 +34,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12972" AltIDMod="0" />
-      <StaticTile TileID="12973" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top" HashKey="110111010101010101">
     <MapTiles>
@@ -55,10 +43,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12972" AltIDMod="0" />
-      <StaticTile TileID="12973" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Left" HashKey="110101110101110101">
     <MapTiles>
@@ -67,10 +52,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12976" AltIDMod="0" />
-      <StaticTile TileID="12977" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Left" HashKey="110101110101010101">
     <MapTiles>
@@ -79,10 +61,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12976" AltIDMod="0" />
-      <StaticTile TileID="12977" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Left" HashKey="010101110101110101">
     <MapTiles>
@@ -91,10 +70,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12976" AltIDMod="0" />
-      <StaticTile TileID="12977" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Left" HashKey="010101110101010101">
     <MapTiles>
@@ -103,10 +79,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12976" AltIDMod="0" />
-      <StaticTile TileID="12977" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Left" HashKey="110101010101110101">
     <MapTiles>
@@ -115,10 +88,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12976" AltIDMod="0" />
-      <StaticTile TileID="12977" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Right" HashKey="010111010111010111">
     <MapTiles>
@@ -127,10 +97,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12970" AltIDMod="0" />
-      <StaticTile TileID="12971" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Right" HashKey="010101010111010111">
     <MapTiles>
@@ -139,10 +106,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12970" AltIDMod="0" />
-      <StaticTile TileID="12971" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Right" HashKey="010111010111010101">
     <MapTiles>
@@ -151,10 +115,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12970" AltIDMod="0" />
-      <StaticTile TileID="12971" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Right" HashKey="010101010111010101">
     <MapTiles>
@@ -163,10 +124,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12970" AltIDMod="0" />
-      <StaticTile TileID="12971" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Right" HashKey="010111010101010111">
     <MapTiles>
@@ -175,10 +133,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12970" AltIDMod="0" />
-      <StaticTile TileID="12971" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom" HashKey="010101010101111111">
     <MapTiles>
@@ -187,10 +142,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12974" AltIDMod="0" />
-      <StaticTile TileID="12975" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom" HashKey="010101010101111101">
     <MapTiles>
@@ -199,10 +151,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12974" AltIDMod="0" />
-      <StaticTile TileID="12975" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom" HashKey="010101010101011111">
     <MapTiles>
@@ -211,10 +160,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12974" AltIDMod="0" />
-      <StaticTile TileID="12975" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom" HashKey="010101010101011101">
     <MapTiles>
@@ -223,10 +169,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12974" AltIDMod="0" />
-      <StaticTile TileID="12975" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom" HashKey="010101010101110111">
     <MapTiles>
@@ -235,10 +178,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12974" AltIDMod="0" />
-      <StaticTile TileID="12975" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010111111111">
     <MapTiles>
@@ -247,9 +187,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010101010111111111">
     <MapTiles>
@@ -258,9 +196,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010111011111">
     <MapTiles>
@@ -269,9 +205,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010101010111011111">
     <MapTiles>
@@ -280,9 +214,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010101010111011101">
     <MapTiles>
@@ -291,9 +223,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010101011111">
     <MapTiles>
@@ -302,9 +232,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010101111111">
     <MapTiles>
@@ -313,9 +241,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010101111101">
     <MapTiles>
@@ -324,9 +250,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010101010111110111">
     <MapTiles>
@@ -335,9 +259,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010111110111">
     <MapTiles>
@@ -346,9 +268,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010111111101">
     <MapTiles>
@@ -357,9 +277,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010111110101">
     <MapTiles>
@@ -368,9 +286,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010101011101">
     <MapTiles>
@@ -379,9 +295,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010101010111110101">
     <MapTiles>
@@ -390,9 +304,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010111011101">
     <MapTiles>
@@ -401,9 +313,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010111010101110111">
     <MapTiles>
@@ -412,9 +322,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Right" HashKey="010101010111111101">
     <MapTiles>
@@ -423,9 +331,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12962" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="111111110101110101">
     <MapTiles>
@@ -434,9 +340,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="111101110101110101">
     <MapTiles>
@@ -445,9 +349,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="111111110101010101">
     <MapTiles>
@@ -456,9 +358,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="111101110101010101">
     <MapTiles>
@@ -467,9 +367,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="110111110101010101">
     <MapTiles>
@@ -478,9 +376,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="111101010101110101">
     <MapTiles>
@@ -489,9 +385,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="011111010101110101">
     <MapTiles>
@@ -500,9 +394,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="110111010101110101">
     <MapTiles>
@@ -511,9 +403,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="111111010101110101">
     <MapTiles>
@@ -522,9 +412,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="011101110101010101">
     <MapTiles>
@@ -533,9 +421,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="110111110101110101">
     <MapTiles>
@@ -544,9 +430,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="010111110101110101">
     <MapTiles>
@@ -555,9 +439,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="011111110101110101">
     <MapTiles>
@@ -566,9 +448,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="010111110101010101">
     <MapTiles>
@@ -577,9 +457,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="011101110101110101">
     <MapTiles>
@@ -588,9 +466,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="011101010101110101">
     <MapTiles>
@@ -599,9 +475,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Left" HashKey="011111110101010101">
     <MapTiles>
@@ -610,9 +484,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12964" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101110101111111">
     <MapTiles>
@@ -621,9 +493,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="010101110101111111">
     <MapTiles>
@@ -632,9 +502,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101110101111101">
     <MapTiles>
@@ -643,9 +511,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="010101110101111101">
     <MapTiles>
@@ -654,9 +520,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="010101110101011101">
     <MapTiles>
@@ -665,9 +529,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101110101010111">
     <MapTiles>
@@ -676,9 +538,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101010101111111">
     <MapTiles>
@@ -687,10 +547,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101010101111101">
     <MapTiles>
@@ -699,10 +556,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101010101011101">
     <MapTiles>
@@ -711,10 +565,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="010101110101110111">
     <MapTiles>
@@ -723,10 +574,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101110101110111">
     <MapTiles>
@@ -735,10 +583,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101010101011111">
     <MapTiles>
@@ -747,10 +592,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101110101011111">
     <MapTiles>
@@ -759,10 +601,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="010101110101011111">
     <MapTiles>
@@ -771,10 +610,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="010101110101010111">
     <MapTiles>
@@ -783,10 +619,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101010101110111">
     <MapTiles>
@@ -795,10 +628,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Bottom Left" HashKey="110101110101011101">
     <MapTiles>
@@ -807,10 +637,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12959" AltIDMod="0" />
-      <StaticTile TileID="12965" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="111111010111010111">
     <MapTiles>
@@ -819,9 +646,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="111111010111010101">
     <MapTiles>
@@ -830,9 +655,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="011111010111010111">
     <MapTiles>
@@ -841,9 +664,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="011111010111010101">
     <MapTiles>
@@ -852,9 +673,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="110101010111010111">
     <MapTiles>
@@ -863,9 +682,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="110111010111010101">
     <MapTiles>
@@ -874,9 +691,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="110111010111010111">
     <MapTiles>
@@ -885,9 +700,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="111101010101010111">
     <MapTiles>
@@ -896,9 +709,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="011101010101010111">
     <MapTiles>
@@ -907,9 +718,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="111111010101010111">
     <MapTiles>
@@ -918,9 +727,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="111101010111010101">
     <MapTiles>
@@ -929,9 +736,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="011111010101010111">
     <MapTiles>
@@ -940,9 +745,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="011101010111010101">
     <MapTiles>
@@ -951,9 +754,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="110101010111010101">
     <MapTiles>
@@ -962,9 +763,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="110111010101010111">
     <MapTiles>
@@ -973,9 +772,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="011101010111010111">
     <MapTiles>
@@ -984,9 +781,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Inner Top Right" HashKey="111101010111010111">
     <MapTiles>
@@ -995,9 +790,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12963" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Outer Top Left" HashKey="110101010101010101">
     <MapTiles>
@@ -1006,10 +799,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12961" AltIDMod="0" />
-      <StaticTile TileID="12967" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Outer Bottom Right" HashKey="010101010101010111">
     <MapTiles>
@@ -1018,9 +808,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12968" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Outer Top Right" HashKey="010111010101010101">
     <MapTiles>
@@ -1029,10 +817,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12966" AltIDMod="0" />
-      <StaticTile TileID="12960" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Outer Bottom Left" HashKey="010101010101110101">
     <MapTiles>
@@ -1041,10 +826,7 @@
       <MapTile TileID="5" AltIDMod="0" />
       <MapTile TileID="6" AltIDMod="0" />
     </MapTiles>
-    <StaticTiles>
-      <StaticTile TileID="12958" AltIDMod="0" />
-      <StaticTile TileID="12969" AltIDMod="0" />
-    </StaticTiles>
+    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Tile Blue Autocorrect" HashKey="010101110111010101">
     <MapTiles>

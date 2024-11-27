@@ -49,6 +49,15 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
+  <TransInfo Description="Common - Rough Beach" HashKey="858585858585858585" File="Beach.xml">
+    <MapTiles>
+      <MapTile TileID="22" AltIDMod="-5" />
+      <MapTile TileID="23" AltIDMod="-5" />
+      <MapTile TileID="24" AltIDMod="-5" />
+      <MapTile TileID="25" AltIDMod="-5" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
   <TransInfo Description="Common - Dungeon Cave" HashKey="151515151515151515" File="Cave.xml">
     <MapTiles>
       <MapTile TileID="581" AltIDMod="0" />

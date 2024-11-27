@@ -3,30 +3,35 @@
   <TransInfo Description="Grass To Jungle Inner Top" HashKey="0A0A0A010101010101">
     <MapTiles>
       <MapTile TileID="176" AltIDMod="0" />
+      <MapTile TileID="177" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Top" HashKey="010A0A010101010101">
     <MapTiles>
       <MapTile TileID="176" AltIDMod="0" />
+      <MapTile TileID="177" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Top" HashKey="0A0A01010101010101">
     <MapTiles>
       <MapTile TileID="176" AltIDMod="0" />
+      <MapTile TileID="177" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Top" HashKey="010A01010101010101">
     <MapTiles>
       <MapTile TileID="176" AltIDMod="0" />
+      <MapTile TileID="177" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Top" HashKey="0A010A010101010101">
     <MapTiles>
       <MapTile TileID="176" AltIDMod="0" />
+      <MapTile TileID="177" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -63,60 +68,80 @@
   <TransInfo Description="Grass To Jungle Inner Right" HashKey="01010A01010A01010A">
     <MapTiles>
       <MapTile TileID="179" AltIDMod="0" />
+      <MapTile TileID="180" AltIDMod="0" />
+      <MapTile TileID="181" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Right" HashKey="01010101010A01010A">
     <MapTiles>
       <MapTile TileID="179" AltIDMod="0" />
+      <MapTile TileID="180" AltIDMod="0" />
+      <MapTile TileID="181" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Right" HashKey="01010A01010A010101">
     <MapTiles>
       <MapTile TileID="179" AltIDMod="0" />
+      <MapTile TileID="180" AltIDMod="0" />
+      <MapTile TileID="181" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Right" HashKey="01010101010A010101">
     <MapTiles>
       <MapTile TileID="179" AltIDMod="0" />
+      <MapTile TileID="180" AltIDMod="0" />
+      <MapTile TileID="181" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Right" HashKey="01010A01010101010A">
     <MapTiles>
       <MapTile TileID="179" AltIDMod="0" />
+      <MapTile TileID="180" AltIDMod="0" />
+      <MapTile TileID="181" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Bottom" HashKey="0101010101010A0A0A">
     <MapTiles>
       <MapTile TileID="182" AltIDMod="0" />
+      <MapTile TileID="183" AltIDMod="0" />
+      <MapTile TileID="184" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Bottom" HashKey="0101010101010A0A01">
     <MapTiles>
       <MapTile TileID="182" AltIDMod="0" />
+      <MapTile TileID="183" AltIDMod="0" />
+      <MapTile TileID="184" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Bottom" HashKey="010101010101010A0A">
     <MapTiles>
       <MapTile TileID="182" AltIDMod="0" />
+      <MapTile TileID="183" AltIDMod="0" />
+      <MapTile TileID="184" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Bottom" HashKey="010101010101010A01">
     <MapTiles>
       <MapTile TileID="182" AltIDMod="0" />
+      <MapTile TileID="183" AltIDMod="0" />
+      <MapTile TileID="184" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Jungle Inner Bottom" HashKey="0101010101010A010A">
     <MapTiles>
       <MapTile TileID="182" AltIDMod="0" />
+      <MapTile TileID="183" AltIDMod="0" />
+      <MapTile TileID="184" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>

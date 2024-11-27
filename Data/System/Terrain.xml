@@ -29,18 +29,18 @@
   <Terrain Name="Wooden Floor NS" ID="26" TileID="1034" R="120" G="90" B="0" Base="216" Random="False" />
   <Terrain Name="Wooden Floor Light EW" ID="27" TileID="1038" R="175" G="100" B="0" Base="216" Random="False" />
   <Terrain Name="Wooden Floor Light NS" ID="28" TileID="1042" R="175" G="110" B="0" Base="216" Random="False" />
-  <Terrain Name="Light Grey Stone" ID="29" TileID="1078" R="110" G="107" B="99" Base="216" Random="False" />
-  <Terrain Name="Dark Grey Stone" ID="30" TileID="1086" R="74" G="74" B="57" Base="216" Random="False" />
+  <Terrain Name="Stone" ID="29" TileID="1078" R="110" G="107" B="99" Base="216" Random="False" />
+  <Terrain Name="Stone Brown" ID="30" TileID="1086" R="74" G="74" B="57" Base="216" Random="False" />
   <Terrain Name="Brick Sandstone NS" ID="31" TileID="1098" R="198" G="241" B="132" Base="216" Random="False" />
-  <Terrain Name="Light Sandstone Tile" ID="32" TileID="1090" R="241" G="148" B="107" Base="216" Random="False" />
-  <Terrain Name="Dark Sandstone Tile" ID="33" TileID="1092" R="241" G="120" B="101" Base="216" Random="False" />
+  <Terrain Name="Stone Sand" ID="32" TileID="1090" R="241" G="148" B="107" Base="216" Random="False" />
+  <Terrain Name="Stone Sand Dark" ID="33" TileID="1092" R="241" G="120" B="101" Base="216" Random="False" />
   <Terrain Name="Brick NS" ID="34" TileID="1146" R="125" G="0" B="0" Base="216" Random="False" />
   <Terrain Name="Marble" ID="35" TileID="1158" R="145" G="140" B="140" Base="216" Random="False" />
   <Terrain Name="Brick Brown EW" ID="36" TileID="1167" R="100" G="0" B="0" Base="216" Random="False" />
   <Terrain Name="Green Marble" ID="37" TileID="1255" R="0" G="60" B="0" Base="216" Random="False" />
   <Terrain Name="Dull Marble" ID="38" TileID="1257" R="200" G="240" B="150" Base="216" Random="False" />
-  <Terrain Name="Flagstone Gray" ID="39" TileID="1259" R="70" G="70" B="70" Base="216" Random="False" />
-  <Terrain Name="White Marble" ID="40" TileID="1263" R="210" G="210" B="200" Base="216" Random="False" />
+  <Terrain Name="Flagstone Gray EW" ID="39" TileID="1259" R="70" G="70" B="70" Base="216" Random="False" />
+  <Terrain Name="Marble" ID="40" TileID="1263" R="210" G="210" B="200" Base="216" Random="False" />
   <Terrain Name="Swamp" ID="41" TileID="15849" R="50" G="210" B="240" Base="88" Random="False" />
   <Terrain Name="Embankment Grass" ID="42" TileID="3" R="0" G="120" B="0" Base="216" Random="False" />
   <Terrain Name="Embankment Forest" ID="43" TileID="196" R="0" G="140" B="100" Base="216" Random="False" />
@@ -51,7 +51,7 @@
   <Terrain Name="Lavafalls NS" ID="48" TileID="500" R="255" G="50" B="0" Base="88" Random="False" />
   <Terrain Name="Lavafalls WE" ID="49" TileID="500" R="255" G="60" B="0" Base="88" Random="False" />
   <Terrain Name="Moss" ID="50" TileID="15853" R="60" G="190" B="240" Base="88" Random="False" />
-  <Terrain Name="Medium Stone" ID="51" TileID="1082" R="70" G="190" B="240" Base="88" Random="False" />
+  <Terrain Name="Stone Dark" ID="51" TileID="1082" R="70" G="190" B="240" Base="88" Random="False" />
   <Terrain Name="Tile Grey" ID="52" TileID="16337" R="80" G="190" B="240" Base="88" Random="False" />
   <Terrain Name="Brick EW" ID="53" TileID="1146" R="125" G="50" B="5" Base="216" Random="False" />
   <Terrain Name="Brick Brown NS" ID="54" TileID="1171" R="153" G="26" B="0" Base="216" Random="False" />
@@ -74,7 +74,6 @@
   <Terrain Name="Goblin Forest Vyseky" ID="72" TileID="196" R="35" G="60" B="75" Base="88" Random="False" />
   <Terrain Name="Mountain Cave No Statics" ID="73" TileID="581" R="145" G="150" B="75" Base="216" Random="False" />
   <Terrain Name="Dungeon Cave No Statics" ID="74" TileID="581" R="90" G="90" B="90" Base="216" Random="False" />
-  <Terrain Name="Lava Depth" ID="75" TileID="500" R="255" G="62" B="62" Base="88" Random="False" />
 
   <Terrain Name="High Coast - Janice" ID="77" TileID="26" R="0" G="0" B="200" Base="24" Random="False" />
 

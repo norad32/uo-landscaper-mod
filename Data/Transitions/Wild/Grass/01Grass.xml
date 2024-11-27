@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransInfo Description="Common - Grass" HashKey="010101010101010101" File="Grass.xml">
+  <MapTiles>
+    <MapTile TileID="3" AltIDMod="0" />
+    <MapTile TileID="4" AltIDMod="0" />
+    <MapTile TileID="5" AltIDMod="0" />
+    <MapTile TileID="6" AltIDMod="0" />
+  </MapTiles>
+  <StaticTiles />
+</TransInfo>

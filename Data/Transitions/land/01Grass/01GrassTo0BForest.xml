@@ -107,36 +107,36 @@
   </TransInfo>
   <TransInfo Description="Grass To Forest Inner Bottom" HashKey="0101010101010B0B0B">
     <MapTiles>
-      <MapTile TileID="208" AltIDMod="0" />
       <MapTile TileID="209" AltIDMod="0" />
+      <MapTile TileID="210" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Forest Inner Bottom" HashKey="0101010101010B0B01">
     <MapTiles>
-      <MapTile TileID="208" AltIDMod="0" />
       <MapTile TileID="209" AltIDMod="0" />
+      <MapTile TileID="210" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Forest Inner Bottom" HashKey="010101010101010B0B">
     <MapTiles>
-      <MapTile TileID="208" AltIDMod="0" />
       <MapTile TileID="209" AltIDMod="0" />
+      <MapTile TileID="210" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Forest Inner Bottom" HashKey="010101010101010B01">
     <MapTiles>
-      <MapTile TileID="208" AltIDMod="0" />
       <MapTile TileID="209" AltIDMod="0" />
+      <MapTile TileID="210" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Forest Inner Bottom" HashKey="0101010101010B010B">
     <MapTiles>
-      <MapTile TileID="208" AltIDMod="0" />
       <MapTile TileID="209" AltIDMod="0" />
+      <MapTile TileID="210" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>

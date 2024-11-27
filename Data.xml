@@ -9,6 +9,7 @@
 		<Directory Name="Data\Statics" />
 		<Directory Name="Data\Logger" />
 		<Directory Name="Data\Transitions" />
+    <Directory Name="Data\Transitions\land" />
 		<Directory Name="Data\Transitions\Populated" />
 		<Directory Name="Data\Transitions\Wild" />
 		<Directory Name="Data\Transitions\Populated\3way" />

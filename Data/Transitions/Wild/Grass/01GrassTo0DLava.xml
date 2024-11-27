@@ -1048,1450 +1048,1450 @@
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0101010D010D010101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0101010D010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0101010D010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0101010D010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0101010D010D01010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0101010D010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0101010D010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0101010D010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D0101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D01010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010101010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D01010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D0101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D01010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010D010101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010D01010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="01010D0D010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D01010101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D0101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010101010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D01010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010101010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010101010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D01010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D01010101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D0101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010101010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D01010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010D010101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0101010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0101010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0101010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010D01010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0101010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0101010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0101010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D010D010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D010101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D0101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0101010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D01010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010101010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0101010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D01010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D010101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D0101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0101010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D01010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010D010101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D01010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D01010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D01010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010D01010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D01010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D01010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D01010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="010D0D0D010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D01010D010D010101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010101010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D01010D010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010101010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D01010D010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010101010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D01010D010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D01010D010D01010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010101010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D01010D010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010101010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D01010D010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010101010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D01010D010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D010101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D0101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0101010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D01010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010101010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0101010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D01010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D010101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D0101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0101010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D01010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010D010101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D01010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D01010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D01010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010D01010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D01010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D01010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D01010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D010D0D010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D01010101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D0101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010101010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D01010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010101010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010101010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D01010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D01010101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D0101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010101010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D01010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010D010101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0101010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0101010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0101010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010D01010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0101010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0101010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0101010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D010D010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D010101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D0101010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0101010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D01010D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010101010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0101010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D01010D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D010101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D0101010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0101010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D01010D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010D010101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D01010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010D0D0101">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D01010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010D010D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D01010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010D0D0D01">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010D01010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D01010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010D0D010D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D01010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010D010D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D01010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
   <TransInfo Description="Grass To Lava Autocorrect" HashKey="0D0D0D0D010D0D0D0D">
     <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
+      <MapTile TileID="500" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
+      <MapTile TileID="502" AltIDMod="0" />
+      <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>

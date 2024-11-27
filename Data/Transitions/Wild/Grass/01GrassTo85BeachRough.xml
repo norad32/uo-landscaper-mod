@@ -1,558 +1,558 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Trans>
-  <TransInfo Description="Grass To Sand No Statics Inner Top" HashKey="434343010101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top" HashKey="858585010101010101">
     <MapTiles>
       <MapTile TileID="57" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top" HashKey="014343010101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top" HashKey="018585010101010101">
     <MapTiles>
       <MapTile TileID="57" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top" HashKey="434301010101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top" HashKey="858501010101010101">
     <MapTiles>
       <MapTile TileID="57" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top" HashKey="014301010101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top" HashKey="018501010101010101">
     <MapTiles>
       <MapTile TileID="57" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top" HashKey="430143010101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top" HashKey="850185010101010101">
     <MapTiles>
       <MapTile TileID="57" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Left" HashKey="430101430101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Left" HashKey="850101850101850101">
     <MapTiles>
       <MapTile TileID="55" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Left" HashKey="430101430101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Left" HashKey="850101850101010101">
     <MapTiles>
       <MapTile TileID="55" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Left" HashKey="010101430101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Left" HashKey="010101850101850101">
     <MapTiles>
       <MapTile TileID="55" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Left" HashKey="010101430101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Left" HashKey="010101850101010101">
     <MapTiles>
       <MapTile TileID="55" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Left" HashKey="430101010101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Left" HashKey="850101010101850101">
     <MapTiles>
       <MapTile TileID="55" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Right" HashKey="010143010143010143">
+  <TransInfo Description="Grass To Beach Rough Inner Right" HashKey="010185010185010185">
     <MapTiles>
       <MapTile TileID="56" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Right" HashKey="010101010143010143">
+  <TransInfo Description="Grass To Beach Rough Inner Right" HashKey="010101010185010185">
     <MapTiles>
       <MapTile TileID="56" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Right" HashKey="010143010143010101">
+  <TransInfo Description="Grass To Beach Rough Inner Right" HashKey="010185010185010101">
     <MapTiles>
       <MapTile TileID="56" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Right" HashKey="010101010143010101">
+  <TransInfo Description="Grass To Beach Rough Inner Right" HashKey="010101010185010101">
     <MapTiles>
       <MapTile TileID="56" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Right" HashKey="010143010101010143">
+  <TransInfo Description="Grass To Beach Rough Inner Right" HashKey="010185010101010185">
     <MapTiles>
       <MapTile TileID="56" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom" HashKey="010101010101434343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom" HashKey="010101010101858585">
     <MapTiles>
       <MapTile TileID="58" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom" HashKey="010101010101434301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom" HashKey="010101010101858501">
     <MapTiles>
       <MapTile TileID="58" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom" HashKey="010101010101014343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom" HashKey="010101010101018585">
     <MapTiles>
       <MapTile TileID="58" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom" HashKey="010101010101014301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom" HashKey="010101010101018501">
     <MapTiles>
       <MapTile TileID="58" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom" HashKey="010101010101430143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom" HashKey="010101010101850185">
     <MapTiles>
       <MapTile TileID="58" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010143434343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010185858585">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010101010143434343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010101010185858585">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010143014343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010185018585">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010101010143014343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010101010185018585">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010101010143014301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010101010185018501">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010101014343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010101018585">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010101434343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010101858585">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010101434301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010101858501">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010101010143430143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010101010185850185">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010143430143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010185850185">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010143434301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010185858501">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010143430101">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010185850101">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010101014301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010101018501">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010101010143430101">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010101010185850101">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010143014301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010185018501">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010143010101430143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010185010101850185">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Right" HashKey="010101010143434301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Right" HashKey="010101010185858501">
     <MapTiles>
       <MapTile TileID="53" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="434343430101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="858585850101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="434301430101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="858501850101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="434343430101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="858585850101010101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="434301430101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="858501850101010101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="430143430101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="850185850101010101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="434301010101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="858501010101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="014343010101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="018585010101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="430143010101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="850185010101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="434343010101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="858585010101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="014301430101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="018501850101010101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="430143430101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="850185850101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="010143430101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="010185850101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="014343430101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="018585850101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="010143430101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="010185850101010101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="014301430101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="018501850101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="014301010101430101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="018501010101850101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Left" HashKey="014343430101010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Left" HashKey="018585850101010101">
     <MapTiles>
       <MapTile TileID="51" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101430101434343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101850101858585">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="010101430101434343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="010101850101858585">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101430101434301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101850101858501">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="010101430101434301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="010101850101858501">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="010101430101014301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="010101850101018501">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101430101010143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101850101010185">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101010101434343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101010101858585">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101010101434301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101010101858501">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101010101014301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101010101018501">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="010101430101430143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="010101850101850185">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101430101430143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101850101850185">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101010101014343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101010101018585">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101430101014343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101850101018585">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="010101430101014343">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="010101850101018585">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="010101430101010143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="010101850101010185">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101010101430143">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101010101850185">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Bottom Left" HashKey="430101430101014301">
+  <TransInfo Description="Grass To Beach Rough Inner Bottom Left" HashKey="850101850101018501">
     <MapTiles>
       <MapTile TileID="54" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="434343010143010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="858585010185010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="434343010143010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="858585010185010101">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="014343010143010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="018585010185010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="014343010143010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="018585010185010101">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="430101010143010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="850101010185010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="430143010143010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="850185010185010101">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="430143010143010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="850185010185010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="434301010101010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="858501010101010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="014301010101010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="018501010101010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="434343010101010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="858585010101010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="434301010143010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="858501010185010101">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="014343010101010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="018585010101010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="014301010143010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="018501010185010101">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="430101010143010101">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="850101010185010101">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="430143010101010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="850185010101010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="014301010143010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="018501010185010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Inner Top Right" HashKey="434301010143010143">
+  <TransInfo Description="Grass To Beach Rough Inner Top Right" HashKey="858501010185010185">
     <MapTiles>
       <MapTile TileID="52" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Outer Top Left" HashKey="430101010101010101">
+  <TransInfo Description="Grass To Beach Rough Outer Top Left" HashKey="850101010101010101">
     <MapTiles>
       <MapTile TileID="62" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Outer Bottom Right" HashKey="010101010101010143">
+  <TransInfo Description="Grass To Beach Rough Outer Bottom Right" HashKey="010101010101010185">
     <MapTiles>
       <MapTile TileID="61" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Outer Top Right" HashKey="010143010101010101">
+  <TransInfo Description="Grass To Beach Rough Outer Top Right" HashKey="010185010101010101">
     <MapTiles>
       <MapTile TileID="59" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Outer Bottom Left" HashKey="010101010101430101">
+  <TransInfo Description="Grass To Beach Rough Outer Bottom Left" HashKey="010101010101850101">
     <MapTiles>
       <MapTile TileID="60" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010101430143010101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010101850185010101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -561,7 +561,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010101430143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010101850185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -570,7 +570,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010101430143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010101850185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -579,7 +579,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010101430143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010101850185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -588,7 +588,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010101430143010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010101850185010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -597,7 +597,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010101430143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010101850185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -606,7 +606,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010101430143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010101850185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -615,7 +615,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010101430143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010101850185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -624,7 +624,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -633,7 +633,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -642,7 +642,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430101010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850101010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -651,7 +651,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -660,7 +660,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -669,7 +669,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -678,7 +678,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430143010101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850185010101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -687,7 +687,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -696,7 +696,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -705,7 +705,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -714,7 +714,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430143010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850185010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -723,7 +723,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -732,7 +732,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -741,7 +741,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="010143430143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="010185850185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -750,7 +750,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -759,7 +759,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -768,7 +768,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -777,7 +777,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -786,7 +786,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430101010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850101010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -795,7 +795,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -804,7 +804,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -813,7 +813,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -822,7 +822,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -831,7 +831,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -840,7 +840,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -849,7 +849,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430143010101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850185010101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -858,7 +858,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -867,7 +867,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -876,7 +876,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -885,7 +885,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -894,7 +894,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -903,7 +903,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -912,7 +912,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430143010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850185010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -921,7 +921,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -930,7 +930,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -939,7 +939,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -948,7 +948,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -957,7 +957,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301010143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501010185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -966,7 +966,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014301430143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018501850185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -975,7 +975,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -984,7 +984,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -993,7 +993,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1002,7 +1002,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1011,7 +1011,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430101010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850101010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1020,7 +1020,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1029,7 +1029,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1038,7 +1038,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1047,7 +1047,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1056,7 +1056,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1065,7 +1065,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1074,7 +1074,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430143010101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850185010101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1083,7 +1083,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1092,7 +1092,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1101,7 +1101,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1110,7 +1110,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1119,7 +1119,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1128,7 +1128,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1137,7 +1137,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430143010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850185010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1146,7 +1146,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1155,7 +1155,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1164,7 +1164,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1173,7 +1173,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1182,7 +1182,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343010143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585010185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1191,7 +1191,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="014343430143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="018585850185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1200,7 +1200,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101430143010101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101850185010101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1209,7 +1209,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101010143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101010185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1218,7 +1218,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101430143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101850185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1227,7 +1227,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101010143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101010185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1236,7 +1236,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101430143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101850185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1245,7 +1245,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101010143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101010185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1254,7 +1254,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101430143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101850185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1263,7 +1263,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101430143010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101850185010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1272,7 +1272,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101010143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101010185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1281,7 +1281,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101430143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101850185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1290,7 +1290,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101010143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101010185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1299,7 +1299,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101430143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101850185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1308,7 +1308,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101010143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101010185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1317,7 +1317,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430101430143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850101850185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1326,7 +1326,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1335,7 +1335,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1344,7 +1344,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1353,7 +1353,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1362,7 +1362,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430101010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850101010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1371,7 +1371,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1380,7 +1380,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1389,7 +1389,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1398,7 +1398,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1407,7 +1407,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1416,7 +1416,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1425,7 +1425,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430143010101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850185010101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1434,7 +1434,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1443,7 +1443,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1452,7 +1452,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1461,7 +1461,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1470,7 +1470,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1479,7 +1479,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1488,7 +1488,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430143010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850185010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1497,7 +1497,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1506,7 +1506,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1515,7 +1515,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1524,7 +1524,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1533,7 +1533,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143010143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185010185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1542,7 +1542,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="430143430143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="850185850185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1551,7 +1551,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1560,7 +1560,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1569,7 +1569,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1578,7 +1578,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1587,7 +1587,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430101010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850101010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1596,7 +1596,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1605,7 +1605,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1614,7 +1614,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1623,7 +1623,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1632,7 +1632,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1641,7 +1641,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1650,7 +1650,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430143010101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850185010101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1659,7 +1659,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1668,7 +1668,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1677,7 +1677,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1686,7 +1686,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1695,7 +1695,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1704,7 +1704,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1713,7 +1713,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430143010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850185010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1722,7 +1722,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1731,7 +1731,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1740,7 +1740,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1749,7 +1749,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1758,7 +1758,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301010143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501010185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1767,7 +1767,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434301430143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858501850185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1776,7 +1776,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1785,7 +1785,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430101014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850101018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1794,7 +1794,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1803,7 +1803,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430101434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850101858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1812,7 +1812,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430101010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850101010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1821,7 +1821,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1830,7 +1830,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430101430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850101850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1839,7 +1839,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1848,7 +1848,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430101014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850101018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1857,7 +1857,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1866,7 +1866,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430101434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850101858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1875,7 +1875,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430143010101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850185010101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1884,7 +1884,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1893,7 +1893,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430143430101">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850185850101">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1902,7 +1902,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1911,7 +1911,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430143014301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850185018501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1920,7 +1920,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1929,7 +1929,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430143434301">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850185858501">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1938,7 +1938,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430143010143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850185010185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1947,7 +1947,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1956,7 +1956,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430143430143">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850185850185">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1965,7 +1965,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1974,7 +1974,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430143014343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850185018585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1983,7 +1983,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343010143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585010185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />
@@ -1992,7 +1992,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Grass To Sand No Statics Autocorrect" HashKey="434343430143434343">
+  <TransInfo Description="Grass To Beach Rough Autocorrect" HashKey="858585850185858585">
     <MapTiles>
         <MapTile TileID="22" AltIDMod="0" />
       <MapTile TileID="23" AltIDMod="0" />

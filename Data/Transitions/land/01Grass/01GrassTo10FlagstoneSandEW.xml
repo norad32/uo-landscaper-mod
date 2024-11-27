@@ -1,0 +1,2176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trans>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top" HashKey="101010010101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12972" AltIDMod="0" />
+      <StaticTile TileID="12973" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top" HashKey="010010010101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12972" AltIDMod="0" />
+      <StaticTile TileID="12973" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top" HashKey="101001010101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12972" AltIDMod="0" />
+      <StaticTile TileID="12973" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top" HashKey="010001010101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12972" AltIDMod="0" />
+      <StaticTile TileID="12973" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top" HashKey="100100010101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12972" AltIDMod="0" />
+      <StaticTile TileID="12973" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Left" HashKey="100101000101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12976" AltIDMod="0" />
+      <StaticTile TileID="12977" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Left" HashKey="100101000101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12976" AltIDMod="0" />
+      <StaticTile TileID="12977" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Left" HashKey="010101000101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12976" AltIDMod="0" />
+      <StaticTile TileID="12977" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Left" HashKey="010101000101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12976" AltIDMod="0" />
+      <StaticTile TileID="12977" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Left" HashKey="100101010101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12976" AltIDMod="0" />
+      <StaticTile TileID="12977" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Right" HashKey="010100010100010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12970" AltIDMod="0" />
+      <StaticTile TileID="12971" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Right" HashKey="010101010100010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12970" AltIDMod="0" />
+      <StaticTile TileID="12971" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Right" HashKey="010100010100010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12970" AltIDMod="0" />
+      <StaticTile TileID="12971" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Right" HashKey="010101010100010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12970" AltIDMod="0" />
+      <StaticTile TileID="12971" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Right" HashKey="010100010101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12970" AltIDMod="0" />
+      <StaticTile TileID="12971" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom" HashKey="010101010101001010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12974" AltIDMod="0" />
+      <StaticTile TileID="12975" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom" HashKey="010101010101001001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12974" AltIDMod="0" />
+      <StaticTile TileID="12975" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom" HashKey="010101010101010010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12974" AltIDMod="0" />
+      <StaticTile TileID="12975" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom" HashKey="010101010101010001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12974" AltIDMod="0" />
+      <StaticTile TileID="12975" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom" HashKey="010101010101000100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12974" AltIDMod="0" />
+      <StaticTile TileID="12975" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010100101010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010101010100101010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010100010010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010101010100010010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010101010100010001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010101010010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010101001010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010101001001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010101010100100100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010100100100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010100101001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010100100101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010101010001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010101010100100101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010100010001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010100010101000100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Right" HashKey="010101010100101001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12962" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="101010100101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="101001000101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="101010100101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="101001000101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="100100100101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="101001010101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="010010010101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="100100010101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="101010010101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="010001000101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="100100100101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="010100100101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="010010100101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="010100100101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="010001000101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="010001010101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Left" HashKey="010010100101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12964" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101000101001010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="010101000101001010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101000101001001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="010101000101001001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="010101000101010001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101000101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101010101001010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101010101001001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101010101010001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="010101000101000100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101000101000100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101010101010010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101000101010010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="010101000101010010">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="010101000101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101010101000100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Bottom Left" HashKey="100101000101010001">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12959" AltIDMod="0" />
+      <StaticTile TileID="12965" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="101010010100010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="101010010100010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="010010010100010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="010010010100010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="100101010100010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="100100010100010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="100100010100010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="101001010101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="010001010101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="101010010101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="101001010100010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="010010010101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="010001010100010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="100101010100010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="100100010101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="010001010100010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Inner Top Right" HashKey="101001010100010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12963" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Outer Top Left" HashKey="100101010101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12961" AltIDMod="0" />
+      <StaticTile TileID="12967" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Outer Bottom Right" HashKey="010101010101010100">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12968" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Outer Top Right" HashKey="010100010101010101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12966" AltIDMod="0" />
+      <StaticTile TileID="12960" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Outer Bottom Left" HashKey="010101010101000101">
+    <MapTiles>
+      <MapTile TileID="3" AltIDMod="0" />
+      <MapTile TileID="4" AltIDMod="0" />
+      <MapTile TileID="5" AltIDMod="0" />
+      <MapTile TileID="6" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="12958" AltIDMod="0" />
+      <StaticTile TileID="12969" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010101000100010101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010101000100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010101000100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010101000100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010101000100010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010101000100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010101000100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010101000100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100101010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100100010101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100100010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010100100100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000101010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000100010101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000100010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001010100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010001000100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100101010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100100010101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100100010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010010100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="010010100100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101000100010101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101010100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101000100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101010100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101000100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101010100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101000100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101000100010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101010100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101000100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101010100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101000100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101010100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100101000100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100101010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100100010101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100100010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100010100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="100100100100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000101010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000100010101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000100010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001010100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101001000100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100101010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100101001001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100101010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100101000100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100101010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100101001010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100100010101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100100100101">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100100010001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100100101001">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100100010100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100100100100">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100100010010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010010100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+  <TransInfo Description="Grass To Flagstone Sand EW Autocorrect" HashKey="101010100100101010">
+    <MapTiles>
+      <MapTile TileID="513" AltIDMod="0" />
+      <MapTile TileID="515" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles />
+  </TransInfo>
+</Trans>

@@ -1,0 +1,187 @@
+---
+title: Snow
+parent: Forest Yew
+layout: home
+nav_order: 12
+---
+
+# Forest Yew to Snow
+
+_Generated on 2024-12-08 12:49:49_
+
+## Top
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00D1 | 209 | 0 | 50% |
+| 0x00D2 | 210 | 0 | 50% |
+
+### Statics
+
+_None_
+
+## Left
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00CE | 206 | 0 | 50% |
+| 0x00CF | 207 | 0 | 50% |
+
+### Statics
+
+_None_
+
+## Right
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00CB | 203 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Bottom
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00C8 | 200 | 0 | 50% |
+| 0x00C9 | 201 | 0 | 50% |
+
+### Statics
+
+_None_
+
+## Bottom Right
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00D8 | 216 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Top Left
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00D9 | 217 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Bottom Left
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00DA | 218 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Top Right
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00DB | 219 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Outer Top Left
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00D5 | 213 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Outer Bottom Right
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00D4 | 212 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Outer Top Right
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00D6 | 214 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Outer Bottom Left
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00D7 | 215 | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Autocorrect
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x011A | 282 | 0 | 25% |
+| 0x011B | 283 | 0 | 25% |
+| 0x011C | 284 | 0 | 25% |
+| 0x011D | 285 | 0 | 25% |
+
+### Statics
+
+_None_
+
+## Invalid
+
+### Tiles
+
+| ID Hex | ID Dec | Alt Mod | Chance |
+|:------:|:------:|:--------:|:------:|
+| 0x00C4 | 196 | 0 | 25% |
+| 0x00C5 | 197 | 0 | 25% |
+| 0x00C6 | 198 | 0 | 25% |
+| 0x00C7 | 199 | 0 | 25% |
+
+### Statics
+
+_None_

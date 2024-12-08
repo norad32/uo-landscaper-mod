@@ -258,7 +258,7 @@ def traverse_and_generate(input_base: Path, output_base: Path) -> None:
 def main() -> None:
     """Entry point of the script."""
     input_dir = Path("../../data/transitions")
-    output_dir = Path("../transitions")
+    output_dir = Path("../pages/transitions")
 
     if not input_dir.exists():
         logging.error(f"Input directory '{input_dir}' does not exist.")

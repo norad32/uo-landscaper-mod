@@ -2,41 +2,38 @@
 title: Home
 layout: home
 nav_order: 0
+description: "A mod for UO Landscaper: detailed transition and random statics generation tables for modern Ultima Online maps"
 ---
 
 # UO Landscaper Mod
 
-## About <a name = "about"></a>
+{: .fs-9 }
 
-The **UO Landscaper Mod** aims to enhance the Ultima Online mapping tool, UO Landscaper, by offering a complete and reliable collection of transition tables for all map tiles in the classic [Ultima Online](https://uo.com) (Time of Legends) client.
+A comprehensive upgrade for UO Landscaper, providing refined transition and random statics generation tables designed for modern Ultima Online maps.
+{: .fs-6 .fw-300 }
+
+[Install now][Installation]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub](https://github.com/norad32/uo-landscaper-mod){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .note }
+This mod includes only the XML files used by UO Landscaper. UO Landscaper’s source code and binaries are not part of the package.
+
+**UO Landscaper Mod** aims to enhance the Ultima Online mapping tool, **UO Landscaper**, by offering a complete and reliable collection of transition and random statics tables for all map tiles in the classic [Ultima Online](https://uo.com) (Time of Legends) client.
 
 While this mod arrives fashionably about two decades too late, it serves as a testament to the lasting legacy of Ultima Online and its active Free Shard community.
 
-{: .note }
-This mod includes only the data XML files used by UO Landscaper. It does not contain the source code or binaries of the UO Landscaper tool itself.
-
 ## Getting Started <a name = "getting_started"></a>
 
-Follow these instructions to set up UO Landscaper Mod on your local machine.
+**UO Landscaper Mod** replaces all XML transition and random statics tables of **UO Landscaper**. Check out the [Installation][Installtion] page for detailed instructions on how to install the mod.
 
-### Prerequisites
+{: .note }
+To use the mod, you do **_not_** need to clone or fork the [GitHub Repo](https://github.com/norad32/uo-landscaper-mod)! You should do that only if you intend to contribute to the development of the mod, or develop a new mod based on **UO Landscaper Mod**.
 
-Ensure you have the following installed on your system:
+### License
 
-- **UO Landscaper**: The tool that this mod extends. You can still get it from [Ultima Online World](https://uo.wzk.cz/uolandscaper/) or the [ServUO Community](https://www.servuo.com/archive/uo-landscaper-v1-4-x.380/).
-- **Git**: For version control and collaboration. [Download Git](https://git-scm.com/downloads).
-
-For editing and collaboration, you may also need:
-
-- **XML Editor**: Such as [Visual Studio Code](https://code.visualstudio.com/) or [Notepad++](https://notepad-plus-plus.org/).
-- **UOFiddler**: To inspect the tile set and map. [Download UOFiddler](https://github.com/polserver/UOFiddler).
-- **Ultima Online**: The Ultima Online client. [Download Ultima Online](https://uo.com/client-download/)
-
-## Usage <a name="usage"></a>
-
-You can use UO Landscaper with the mod as usual.
-
-For detailled instructions, refer to the [Wiki](https://github.com/norad32/uo-landscaper-mod/wiki)
+**UO Landscaper Mod** is open source and distributed under the [MIT license](https://github.com/norad32/uo-landscaper-mod/blob/main/LICENSE). Feel free to modify and adapt it for your project.
 
 ## Authors <a name = "authors"></a>
 

@@ -1,7 +1,7 @@
 ---
 title: Transitions
 layout: home
-parent: File Structure
+parent: Inner Workings
 nav_order: 1
 ---
 

@@ -1,45 +1,25 @@
 ---
 title: Roadmap
 layout: home
-nav_order: 6
+nav_order: 7
+description: "Roadmap of future updates for UO Landscaper Mod"
 ---
 
 # Roadmap
 
-Welcome to the **UO Landscaper Mod** roadmap! This document outlines the planned releases, most aimed at fixing tile transitions for specific categories of tiles.
+{: .fs-9 }
+
+Welcome to the UO Landscaper Mod roadmap! This document outlines the planned releases, most aimed at fixing tile transitions for specific categories of tiles.
+{: .fs-6 .fw-300 }
+
+---
 
 {: .note }
 Feel free to contribute or suggest new features by opening an issue or submitting a pull request. Your feedback helps to make the mod better for everyone!
 
-## 0.1.0 - Land Transitions
+## v0.2.0 - Liquid Assets
 
-- Grass
-- Sand
-- Dirt Large
-- Dirt Small
-- Jungle
-- Forest
-- Snow
-- Rock
-- Forest Goblin
-- Grass No Statics
-- Forest No Statics
-- Yew Forest
-- Dark Forest
-- Sand No Statics
-- Jungle No Statics
-- Snow No Statics
-- Forest Goblin Vyseky
-- Beach
-- Beach No Statics
-- Grass Rough
-- Sand Rough
-- Jungle Rough
-- Forest Rough
-- Snow Rough
-- Beach Rough
-
-## 0.2.0 - Water Transitions
+Polishing water, swamps, and lava landscapes.
 
 - Water Deep
 - Water Shallow
@@ -47,8 +27,16 @@ Feel free to contribute or suggest new features by opening an issue or submittin
 - Waterfalls NS
 - Waterfalls WE
 - High Coast - Janice
+- Swamp
+- Moss
+- Moss No Statics
+- Swamp No Statics
+- Lava
+- Lavafalls NS
+- Lavafalls WE
+- Lava Depth
 
-## 0.3.0 - Road Transitions
+## v0.3.0 - Road & Floor Transitions
 
 - Flagstone Brown
 - Cobblestones
@@ -63,9 +51,6 @@ Feel free to contribute or suggest new features by opening an issue or submittin
 - Brick Sandstone Brick EW
 - Planks NS
 - Planks EW
-
-## 0.4.0 - Floor Transitions
-
 - Tile Red
 - Tile Blue
 - Light Grey Stone
@@ -83,21 +68,9 @@ Feel free to contribute or suggest new features by opening an issue or submittin
 - Wooden Floor Light NS
 - Wooden Floor Light EW
 
-## 0.5.0 - Swamp Transitions
+## v0.4.0 - Caveman
 
-- Swamp
-- Moss
-- Moss No Statics
-- Swamp No Statics
-
-## 0.6.0 - Lava Transitions
-
-- Lava
-- Lavafalls NS
-- Lavafalls WE
-- Lava Depth
-
-## 0.7.0 - Cave Transitions
+Refining caves
 
 - Cave Mountain Cave
 - Cave
@@ -106,7 +79,9 @@ Feel free to contribute or suggest new features by opening an issue or submittin
 - Cave Walls
 - Cave Entrance
 
-## 0.8.0 - Embankment Transitions
+## v0.5.0 - Cliffhanger
+
+Polishing embankments and sloped transitions.
 
 - Embankment Grass
 - Embankment Forest
@@ -117,7 +92,9 @@ Feel free to contribute or suggest new features by opening an issue or submittin
 - Embankment Snow Dark
 - Embankment Dirt
 
-## 0.9.0 - Other & System Transitions
+## v0.6.0 - The Void Beckons
+
+Tying up loose ends and fixing the truly odd.
 
 - Void
 - Graveyard
@@ -132,6 +109,6 @@ Feel free to contribute or suggest new features by opening an issue or submittin
 
 ### Future Releases
 
-I'm continuously working to improve the **UO Landscaper Mod**. Stay tuned for upcoming features and enhancements!
+I'm continuously working to improve **UO Landscaper Mod**. Stay tuned for upcoming features and enhancements!
 
 ---

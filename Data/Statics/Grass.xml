@@ -13,47 +13,47 @@
 		<Static TileID="3281" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Tree grey, green leaves" Freq="1">
-		<Static TileID="CD3" X="0" Y="0" Z="0" Hue="0"/>
-		<Static TileID="CD4" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3283" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3284" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Oak tree, green leaves" Freq="1">
-		<Static TileID="CDD" X="0" Y="0" Z="0" Hue="0"/>
-		<Static TileID="CDE" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3293" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3294" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description=" Walnut tree, green leaves" Freq="1">
-		<Static TileID="CE3" X="0" Y="0" Z="0" Hue="0"/>
-		<Static TileID="CE4" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3299" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3300" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Willow tree, green leaves" Freq="1">
-		<Static TileID="CE6" X="0" Y="0" Z="0" Hue="0"/>
-		<Static TileID="CE7" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3302" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3303" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Foxglove flower" Freq="5">
-		<Static TileID="C84" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3204" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Ourflour flower" Freq="5">
-		<Static TileID="C85" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3205" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Campion flowers" Freq="5">
-		<Static TileID="C87" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3207" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Snowdrops" Freq="5">
-		<Static TileID="C88" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3208" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Foxglove flower" Freq="0">
-		<Static TileID="C8A" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3210" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="White flowers" Freq="0">
-		<Static TileID="C8B" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3211" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="White flowers" Freq="10">
-		<Static TileID="C8C" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3212" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Poppies" Freq="0">
-		<Static TileID="cbe" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3262" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Poppies" Freq="5">
-		<Static TileID="cbf" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3263" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Mushroom Ring" Freq="5">
 		<Static TileID="3343" X="2" Y="0" Z="0" Hue="0"/>

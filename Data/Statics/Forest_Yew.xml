@@ -417,10 +417,10 @@
 		<Static TileID="3210" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Poppies" Freq="2">
-		<Static TileID="cbe" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3262" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="Poppies" Freq="2">
-		<Static TileID="cbf" X="0" Y="0" Z="0" Hue="0"/>
+		<Static TileID="3263" X="0" Y="0" Z="0" Hue="0"/>
 	</Statics>
 	<Statics Description="White flowers" Freq="2">
 		<Static TileID="3211" X="0" Y="0" Z="0" Hue="0"/>

@@ -374,18 +374,18 @@
     <Static TileID="3150" X="0" Y="0" Z="0" Hue="0" />
   </Statics>
   <Statics Description="Foxglove flower" Freq="0">
-    <Static TileID="C84" X="0" Y="0" Z="0" Hue="0" />
+    <Static TileID="3204" X="0" Y="0" Z="0" Hue="0" />
   </Statics>
   <Statics Description="Ourflour flower" Freq="0">
-    <Static TileID="C85" X="0" Y="0" Z="0" Hue="0" />
+    <Static TileID="3205" X="0" Y="0" Z="0" Hue="0" />
   </Statics>
   <Statics Description="Campion flowers" Freq="0">
-    <Static TileID="C87" X="0" Y="0" Z="0" Hue="0" />
+    <Static TileID="3207" X="0" Y="0" Z="0" Hue="0" />
   </Statics>
   <Statics Description="Poppies" Freq="0">
-    <Static TileID="cbe" X="0" Y="0" Z="0" Hue="0" />
+    <Static TileID="3262" X="0" Y="0" Z="0" Hue="0" />
   </Statics>
   <Statics Description="Poppies" Freq="0">
-    <Static TileID="cbf" X="0" Y="0" Z="0" Hue="0" />
+    <Static TileID="3263" X="0" Y="0" Z="0" Hue="0" />
   </Statics>
 </RandomStatics>

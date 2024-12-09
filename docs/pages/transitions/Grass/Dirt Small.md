@@ -1,6 +1,7 @@
 ---
 title: Dirt Small
 parent: Grass
+grand_parent: Transitions
 layout: home
 nav_order: 8
 ---

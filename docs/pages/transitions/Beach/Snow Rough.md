@@ -1,6 +1,7 @@
 ---
 title: Snow Rough
 parent: Beach
+grand_parent: Transitions
 layout: home
 nav_order: 132
 ---

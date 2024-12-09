@@ -1,6 +1,7 @@
 ---
 title: Brick Brown EW
 parent: Beach
+grand_parent: Transitions
 layout: home
 nav_order: 36
 ---

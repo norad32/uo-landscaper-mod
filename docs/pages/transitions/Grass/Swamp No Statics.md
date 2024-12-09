@@ -1,6 +1,7 @@
 ---
 title: Swamp No Statics
 parent: Grass
+grand_parent: Transitions
 layout: home
 nav_order: 70
 ---

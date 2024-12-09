@@ -1,6 +1,7 @@
 ---
 title: Beach Rough
 parent: Grass
+grand_parent: Transitions
 layout: home
 nav_order: 133
 ---

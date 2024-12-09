@@ -1,6 +1,7 @@
 ---
 title: Stone Sand
 parent: Beach
+grand_parent: Transitions
 layout: home
 nav_order: 32
 ---

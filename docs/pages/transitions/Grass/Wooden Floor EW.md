@@ -1,6 +1,7 @@
 ---
 title: Wooden Floor EW
 parent: Grass
+grand_parent: Transitions
 layout: home
 nav_order: 25
 ---

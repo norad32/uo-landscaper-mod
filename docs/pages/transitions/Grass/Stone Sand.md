@@ -1,6 +1,7 @@
 ---
 title: Stone Sand
 parent: Grass
+grand_parent: Transitions
 layout: home
 nav_order: 32
 ---

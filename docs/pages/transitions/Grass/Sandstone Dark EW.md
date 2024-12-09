@@ -1,6 +1,7 @@
 ---
 title: Sandstone Dark EW
 parent: Grass
+grand_parent: Transitions
 layout: home
 nav_order: 57
 ---

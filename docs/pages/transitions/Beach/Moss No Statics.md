@@ -1,6 +1,7 @@
 ---
 title: Moss No Statics
 parent: Beach
+grand_parent: Transitions
 layout: home
 nav_order: 69
 ---

@@ -191,6 +191,7 @@ def generate_transition_markdown_from_xml(xml_path: Path, output_dir: Path) -> N
     front_matter = f"""---
 title: {target_name}
 parent: {source_name}
+grand_parent: Transitions
 layout: home
 nav_order: {target_prefix}
 ---

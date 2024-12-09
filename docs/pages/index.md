@@ -7,12 +7,10 @@ description: "A mod for UO Landscaper: detailed transition and random statics ge
 
 # UO Landscaper Mod
 
-{: .fs-9 }
-
 A comprehensive upgrade for UO Landscaper, providing refined transition and random statics generation tables designed for modern Ultima Online maps.
 {: .fs-6 .fw-300 }
 
-[Install now][Installation]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Install now](/installation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub](https://github.com/norad32/uo-landscaper-mod){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---

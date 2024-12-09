@@ -41,7 +41,6 @@ Source: "../data/*"; DestDir: "{app}/data"; Flags: ignoreversion recursesubdirs 
 [Code]
 var
   OriginalDirPage: TInputDirWizardPage;
-  OpenDirCheck: TNewCheckBox;
 
 function FileExistsOrDirExists(Path: String): Boolean;
 begin
@@ -53,13 +52,13 @@ begin
   if FileExists(SourceFile) then
     Result := FileCopy(SourceFile, DestFile, False)
   else
-    Result := True; // Not critical if file not found
+    Result := False;
 end;
 
 function ForceDirExists(Dir: string): Boolean;
 begin
   if DirExists(Dir) then
-    Result := True
+    Result := False
   else
     Result := ForceDirectories(Dir);
 end;
@@ -71,7 +70,7 @@ var
 begin
   if not DirExists(Source) then
   begin
-    Result := True; // If source directory doesn't exist, not critical
+    Result := False;
     Exit;
   end;
 
@@ -119,7 +118,7 @@ begin
     'Select the folder containing your existing UO Landscaper installation:',
     True, '');
   OriginalDirPage.Add('');
-  OriginalDirPage.Values[0] := 'C:\Path\To\UO_Landscaper';
+  OriginalDirPage.Values[0] := 'C:\Program Files (x86)\UO_Landscaper_1.4.0\';
 end;
 
 procedure CurStepChanged(CurStep: TSetupStep);

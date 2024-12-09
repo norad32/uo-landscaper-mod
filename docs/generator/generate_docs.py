@@ -50,15 +50,15 @@ def write_tile_table(
     total = sum(tile_counts.values())
     if total > 0:
         # Create the table header
-        content.append("| ID Hex | ID Dec | Alt Mod | Chance |")
-        content.append("|:------:|:------:|:--------:|:------:|")
+        content.append("| Tile | ID Hex | ID Dec | Alt Mod | Chance |")
+        content.append("|:----:|:------:|:------:|:--------:|:------:|")
         for (tile_id, alt_id_mod), count in sorted(
             tile_counts.items(), key=lambda x: int(x[0][0])
         ):
             tile_id_hex = _format_tile_id_hex(tile_id)
             chance_str = f"{(count / total) * 100:.0f}%"
             content.append(
-                f"| {tile_id_hex} | {tile_id} | {alt_id_mod} | {chance_str} |"
+                f"| ![{tile_id_hex}](../../assets/tiles/{tile_id_hex}.png) | {tile_id_hex} | {tile_id} | {alt_id_mod} | {chance_str} |"
             )
         content.append("")
     else:

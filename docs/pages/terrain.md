@@ -1,6 +1,5 @@
 ---
 title: Terrain
-parent: System
 layout: home
 nav_order: 4
 ---

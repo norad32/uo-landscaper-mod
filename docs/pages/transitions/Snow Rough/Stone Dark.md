@@ -8,14 +8,14 @@ nav_order: 51
 
 # Snow Rough to Stone Dark
 
-_Generated on 2024-12-09 15:09:37_
+_Generated on 2024-12-09 21:21:00_
 
 ## Top, Left, Right, Bottom, Bottom Right, Top Left, Bottom Left, Top Right, Outer Top Left, Outer Bottom Right, Outer Top Right, Outer Bottom Left, Autocorrect, Invalid
 
 ### Tiles
 
 | Tile | ID Hex | ID Dec | Alt Mod | Chance |
-|:----:|:------:|:------:|:--------:|:------:|
+|:----:|:------:|:------:|:-------:|:------:|
 | ![0x011A](../../assets/tiles/0x011A.png) | 0x011A | 282 | 0 | 25% |
 | ![0x011B](../../assets/tiles/0x011B.png) | 0x011B | 283 | 0 | 25% |
 | ![0x011C](../../assets/tiles/0x011C.png) | 0x011C | 284 | 0 | 25% |

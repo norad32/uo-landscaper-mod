@@ -8,14 +8,14 @@ nav_order: 40
 
 # Jungle to Marble
 
-_Generated on 2024-12-09 15:09:35_
+_Generated on 2024-12-09 21:20:57_
 
 ## Top, Left, Right, Bottom, Bottom Right, Top Left, Bottom Left, Top Right, Outer Top Left, Outer Bottom Right, Outer Top Right, Outer Bottom Left, Autocorrect, Invalid
 
 ### Tiles
 
 | Tile | ID Hex | ID Dec | Alt Mod | Chance |
-|:----:|:------:|:------:|:--------:|:------:|
+|:----:|:------:|:------:|:-------:|:------:|
 | ![0x00AC](../../assets/tiles/0x00AC.png) | 0x00AC | 172 | 0 | 25% |
 | ![0x00AD](../../assets/tiles/0x00AD.png) | 0x00AD | 173 | 0 | 25% |
 | ![0x00AE](../../assets/tiles/0x00AE.png) | 0x00AE | 174 | 0 | 25% |

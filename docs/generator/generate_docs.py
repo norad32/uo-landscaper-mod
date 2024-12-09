@@ -38,7 +38,7 @@ def extract_tiles(element: Optional[ET.Element], tile_tag: str) -> List[Tile]:
 
 
 def write_tile_table(
-    content: List[str], tile_counts: Counter[Tile], empty_label: str
+    content: List[str], tile_counts: Counter[Tile], image_path: str, empty_label: str
 ) -> None:
     """Write a tile table (map or static) to the content list.
 
@@ -51,7 +51,7 @@ def write_tile_table(
     if total > 0:
         # Create the table header
         content.append("| Tile | ID Hex | ID Dec | Alt Mod | Chance |")
-        content.append("|:----:|:------:|:------:|:--------:|:------:|")
+        content.append("|:----:|:------:|:------:|:-------:|:------:|")
         for (tile_id, alt_id_mod), count in sorted(
             tile_counts.items(), key=lambda x: int(x[0][0])
         ):
@@ -141,15 +141,15 @@ _Generated on {timestamp}_
         content.append("")
 
         write_tile_table(
-            content,
-            Counter(map_tiles_group),
-            "| _No MapTiles_ | _N/A_ | _N/A_ | _N/A_ |",
+            content, Counter(map_tiles_group), "../../assets/tiles", "_None_"
         )
 
         content.append("## Statics")
         content.append("")
 
-        write_tile_table(content, Counter(static_tiles_group), "_None_")
+        write_tile_table(
+            content, Counter(static_tiles_group), "../../assets/statics", "_None_"
+        )
 
     try:
         md_path.write_text("\n".join(content), encoding="utf-8")
@@ -233,12 +233,18 @@ _Generated on {timestamp}_
         write_tile_table(
             content,
             Counter(map_tiles_group),
-            "| _No MapTiles_ | _N/A_ | _N/A_ | _N/A_ |",
+            "../../assets/tiles",
+            "_None_",
         )
 
         content.append("### Statics")
         content.append("")
-        write_tile_table(content, Counter(static_tiles_group), "_None_")
+        write_tile_table(
+            content,
+            Counter(static_tiles_group),
+            "../../assets/statics",
+            "_None_",
+        )
 
     try:
         md_path.write_text("\n".join(content), encoding="utf-8")
@@ -256,6 +262,189 @@ def traverse_and_generate(input_base: Path, output_base: Path) -> None:
                 generate_markdown_from_xml(xml_path, output_base)
 
 
+def parse_statics(xml_path: Path) -> Dict[str, List[Dict]]:
+    """Parse a statics XML file to extract descriptions and tile data."""
+    try:
+        tree = ET.parse(xml_path)
+    except ET.ParseError as e:
+        logging.error(f"Error parsing '{xml_path}': {e}")
+        return {}
+
+    root = tree.getroot()
+    statics_data = {}
+
+    for statics in root.findall("Statics"):
+        description = statics.get("Description", "Unknown")
+        freq = int(statics.get("Freq", "0"))
+        tiles = []
+
+        for static in statics.findall("Static"):
+            tile_id = static.get("TileID", "0")
+            x = static.get("X", "0")
+            y = static.get("Y", "0")
+            z = static.get("Z", "0")
+            hue = static.get("Hue", "0")
+            tiles.append(
+                {
+                    "TileID": tile_id,
+                    "X": x,
+                    "Y": y,
+                    "Z": z,
+                    "Hue": hue,
+                    "Frequency": freq,
+                }
+            )
+
+        if description not in statics_data:
+            statics_data[description] = []
+        statics_data[description].extend(tiles)
+
+    return statics_data
+
+
+def generate_statics_markdown(xml_path: Path, output_dir: Path) -> None:
+    """Generate Markdown documentation for a statics XML file."""
+    filename = xml_path.stem
+    output_path = output_dir / f"{filename}.md"
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    statics_data = parse_statics(xml_path)
+
+    if not statics_data:
+        return
+
+    front_matter = f"""---
+title: {filename}
+parent: Statics
+layout: home
+---
+
+# {filename}
+
+_Generated on {timestamp}_
+
+"""
+
+    content = [front_matter]
+
+    for description, tiles in statics_data.items():
+        content.append(f"## {description}")
+        content.append("")
+        content.append("| Item | ID Hex | ID Dec | X | Y | Z | Frequency |")
+        content.append("|:----:|:------:|-------:|:--:|:--:|:--:|:---------:|")
+
+        for tile in tiles:
+            tile_id = tile["TileID"]
+            tile_id_hex = f"0x{int(tile_id):04X}"
+            x = tile["X"]
+            y = tile["Y"]
+            z = tile["Z"]
+            frequency = tile["Frequency"]
+            image_path = f"../../assets/statics/{tile_id_hex}.png"
+
+            content.append(
+                f"| ![{tile_id_hex}]({image_path}) | {tile_id_hex} | {tile_id} | {x} | {y} | {z} | {frequency} |"
+            )
+
+        content.append("")
+
+    try:
+        output_path.write_text("\n".join(content), encoding="utf-8")
+        logging.info(f"Generated '{output_path}'")
+    except IOError as e:
+        logging.error(f"Error writing to '{output_path}': {e}")
+
+
+def traverse_and_generate_statics(input_base: Path, output_base: Path) -> None:
+    """Traverse the input directory and generate Markdown files for statics XML files."""
+    for root, _, files in os.walk(input_base):
+        for file in files:
+            if file.lower().endswith(".xml"):
+                xml_path = Path(root) / file
+                generate_statics_markdown(xml_path, output_base)
+
+def parse_terrain(xml_path: Path) -> list:
+    """Parse a terrain XML file to extract terrain details."""
+    try:
+        tree = ET.parse(xml_path)
+    except ET.ParseError as e:
+        logging.error(f"Error parsing '{xml_path}': {e}")
+        return []
+
+    root = tree.getroot()
+    terrains = []
+
+    for terrain in root.findall("Terrain"):
+        terrains.append({
+            "Name": terrain.get("Name", "Unknown"),
+            "ID": terrain.get("ID", "0"),
+            "TileID": terrain.get("TileID", "0"),
+            "R": int(terrain.get("R", "0")),
+            "G": int(terrain.get("G", "0")),
+            "B": int(terrain.get("B", "0")),
+            "Base": terrain.get("Base", "0"),
+            "Random": terrain.get("Random", "False")
+        })
+
+    return terrains
+
+
+def generate_terrain_markdown(xml_path: Path, output_dir: Path) -> None:
+    """Generate Markdown documentation for a terrain XML file."""
+    filename = "index.md"
+    output_path = output_dir / f"{filename}.md"
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    terrains = parse_terrain(xml_path)
+
+    if not terrains:
+        return
+
+    front_matter = f"""---
+title: {filename}
+parent: System
+layout: home
+nav_order: 1
+---
+
+# {filename}
+
+_Generated on {timestamp}_
+
+"""
+
+    content = [front_matter]
+
+    content.append("Terrain | ID | Name | Tile ID | Color | Base  | Random |")
+    content.append("|-------|:--:|:----:|:-------:|:-----:|:-----:|:------:|")
+
+    for terrain in terrains:
+        tile_id_hex = f"0x{int(terrain['TileID']):04X}"
+        rgb_hex = f"#{terrain['R']:02X}{terrain['G']:02X}{terrain['B']:02X}"
+        color_style = f"background-color:{rgb_hex};"
+        image_path = f"../../assets/tiles/{tile_id_hex}.png"
+
+        content.append(
+            f"|  ![{tile_id_hex}]({image_path}) | {terrain['ID']} | {terrain['Name']} | {tile_id_hex} | <span style='{color_style}'>{rgb_hex}</span> | {terrain['Base']} | {terrain['Random']} |"
+        )
+
+    content.append("")
+
+    try:
+        output_path.write_text("\n".join(content), encoding="utf-8")
+        logging.info(f"Generated '{output_path}'")
+    except IOError as e:
+        logging.error(f"Error writing to '{output_path}': {e}")
+
+
+def traverse_and_generate_terrains(input_base: Path, output_base: Path) -> None:
+    """Traverse the input directory and generate Markdown files for terrain XML files."""
+    for root, _, files in os.walk(input_base):
+        for file in files:
+            if file.lower().endswith(".xml"):
+                xml_path = Path(root) / file
+                generate_terrain_markdown(xml_path, output_base)
+
 def main() -> None:
     """Entry point of the script."""
     input_dir = Path("../../data/transitions")
@@ -268,6 +457,31 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     traverse_and_generate(input_dir, output_dir)
     logging.info("Documentation generation completed.")
+
+    """Entry point for generating statics documentation."""
+    input_dir = Path("../../data/statics")
+    output_dir = Path("../pages/statics")
+
+    if not input_dir.exists():
+        logging.error(f"Input directory '{input_dir}' does not exist.")
+        return
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    traverse_and_generate_statics(input_dir, output_dir)
+    logging.info("Statics documentation generation completed.")
+    
+    
+    """Entry point for generating terrain documentation."""
+    input_dir = Path("../../data/system")
+    output_dir = Path("../pages/terrain")
+
+    if not input_dir.exists():
+        logging.error(f"Input directory '{input_dir}' does not exist.")
+        return
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    traverse_and_generate_terrains(input_dir, output_dir)
+    logging.info("Terrain documentation generation completed.")
 
 
 if __name__ == "__main__":
